@@ -59,7 +59,7 @@ Credit history, income, and loan amount were identified as the most significant 
 
 **Clone this repository:**
 
-git clone https://github.com/yourusername/loan-approval-prediction.git
+git clone https://github.com/Bar123sha/Loan-Approval-Prediction
 cd loan-approval-prediction
 
 
