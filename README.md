@@ -1,10 +1,9 @@
-Loan Approval Prediction
-📌 Project Overview
+**Loan-Approval-Prediction**
 
 This project focuses on predicting loan approval status based on applicant details such as income, credit history, loan amount, and other demographic factors.
 The main goal is to assist financial institutions in automating the loan approval process using machine learning models, thereby improving decision-making efficiency.
 
-⚙️ Key Features
+**⚙️ Key Features**
 
 Data preprocessing (handling missing values, encoding categorical features, feature scaling).
 
@@ -16,15 +15,19 @@ Model evaluation with metrics such as Accuracy, Precision, Recall, and F1-score.
 
 Prediction system that can be extended to deployment.
 
-📂 Project Structure
+**📂 Project Structure**
+
 Loan Approval Prediction/
 │── Loan Approval Prediction.ipynb   # Jupyter Notebook with complete workflow
+
 │── README.md                        # Project documentation
+
 │── data/                             # (Optional) dataset folder
+
 │   └── loan_data.csv
 │── models/                           # (Optional) saved trained models
 
-🚀 Tech Stack
+**🚀 Tech Stack**
 
 Programming Language: Python
 
@@ -32,7 +35,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Tools: Jupyter Notebook
 
-🔑 Workflow
+**🔑 Workflow**
 
 Data Collection – Loan dataset is imported and explored.
 
@@ -46,33 +49,33 @@ Model Evaluation – Compared performance across different models.
 
 Prediction – Final trained model used for prediction.
 
-📊 Results
+**📊 Results**
 
 The best-performing model achieved X% accuracy (replace with actual result from your notebook).
 
 Credit history, income, and loan amount were identified as the most significant features.
 
-▶️ How to Run
+**▶️ How to Run**
 
-Clone this repository:
+**Clone this repository:**
 
 git clone https://github.com/yourusername/loan-approval-prediction.git
 cd loan-approval-prediction
 
 
-Install required dependencies:
+**Install required dependencies:**
 
 pip install -r requirements.txt
 
 
-Open Jupyter Notebook:
+**Open Jupyter Notebook:**
 
 jupyter notebook
 
 
-Run Loan Approval Prediction.ipynb step by step.
+Run **Loan Approval Prediction.ipynb** step by step.
 
-📌 Future Improvements
+**📌 Future Improvements**
 
 Hyperparameter tuning for better accuracy.
 
